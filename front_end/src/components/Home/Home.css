@@ -1,0 +1,51 @@
+h4 {
+    color: darkred;
+    font-size: 25px;
+}
+p {
+    font-size: 20px;
+    padding-left: 20px;
+}
+.game-info {
+    min-height: 50px;
+    margin: 10px;
+}
+span.status {
+    transition: 1px linear;
+    transition: all 1s;
+    font-size: 24px;
+    margin-left: 335px;
+}
+button.newGame {
+    font-size: 20px;
+    width: 123px;
+    height: 41px;
+    margin-left: 10px;
+    color: maroon;
+    font-weight: 700;
+    background-color: dodgerblue;
+}
+span.info {
+    font-size: 22px;
+    /* margin: -4px; */
+}
+select#level_select {
+    /* font-size: 20px; */
+    width: 213px;
+    height: 28px;
+    font-size: 17px;
+    padding-left: 7px;
+    color: navy;
+    margin-left: 12px;
+    border: 1px solid maroon;
+}
+.gameBoard {
+    margin-left: 535px;
+}
+button.startButton {
+    color: navy;
+    background-color: palevioletred;
+    font-size: 20px;
+    width: 94px;
+    font-weight: 600;
+}
